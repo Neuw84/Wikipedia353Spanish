@@ -1,0 +1,354 @@
+Term1,Id wiki,Term2,Id wiki,,term1 es,id wiki es,term2 es,id wiki es,Term 1 eu,,Term 2 eu,,Mean
+love,17547,sex,27546,,amor,23565,sexo,4169616,Maitasun,,Sexu harreman,,6.77
+tiger,30075,cat,6678,,tigre,25113,gato,409000,Tigre,,Katu,,7.35
+tiger,30075,tiger,30075,,tigre,25113,tigre,25113,Tigre,,Tigre,,10
+book,3778,paper,16861908,,libro,21933,papel,12349,Liburu,,Paper,,7.46
+computer,7878457,keyboard,18842281,,ordenador,8985,teclado,510471,Ordenagailu,,Giltzadi (ordenagailua),,7.62
+computer,7878457,internet,14539,,ordenador,8985,internet,4507055,Ordenagailu,,Internet,,7.58
+plane,46770,car,13673345,,avion,466366,coche,18019,Hegazkin,,Automobil,,5.77
+train,30598,car,13673345,,tren,5428,coche,18019,Tren,,Automobil,,6.31
+telephone,30003,communication,5177,,telefono,6257,comunicación,8605,Telefono,,Komunikazio,,7.5
+television,29831,radio,15368428,,television,5693,radio,2226582,Telebista,,Irrati (hedabidea),,6.77
+media,19641,radio,15368428,,media,1133166,radio,2226582,,-1,Irrati (hedabidea),,7.42
+drug,9311172,abuse,424739,,droga,2471190,abuso,15911,Droga,,,-1,6.85
+bread,36969,butter,46183,,pan,28138,mantequilla,55812,Ogi,,Gurin,,6.19
+cucumber,164491,potato,23501,,Cucumis sativus,89089,patata,15162,Luzoker,,Patata,,5.92
+doctor,23315,nurse,55292,,medico,2564590,enfermera,230857,Mediku,,,-1,7
+professor,20646803,doctor,8881,,profesor,79570,doctor,87496,Irakasle,,,-1,6.62
+student,155526,professor,20646803,,estudiante,199231,profesor,79570,Ikasle,,Irakasle,,6.81
+smart,-1,student,155526,,inteligente,-1,estudiante,199231,,-1,Ikasle,,4.62
+smart,-1,stupid,19159221,,inteligente,-1,Tonto,654820,,-1,Ergel,,5.81
+company,4918223,stock,19372783,,Empresa,1586816,accion (finazas),121510,Enpresa,,Akzio,,7.08
+stock,19372783,market,3736784,,accion,121510,mercado,14762,,-1,Merkatu,,8.08
+stock,19372783,phone,30003,,accion,121510,telefono,30003,,-1,Telefono,,1.62
+stock,19372783,CD,6429,,accion,121510,CD,4888,,-1,Disko konpaktu,,1.31
+stock,19372783,jaguar,147676,,accion,121510,Jaguar Cars,158259,,-1,Jaguar Cars,,0.92
+stock,657129,egg,19196010,,Fondo (caldo),5016233,Huevo (alimento),138544,,-1,Arrautza (elikagaia),,1.81
+fertility,257215,egg,484939,,fertilidad,27284,Huevo (biología),1208111,,-1,Arrautza (biologia),,6.69
+stock,19372783,live,-1,,accion,121510,Vida.._,-1,,-1,,-1,3.73
+stock,19372783,life,-1,,accion,121510,vida (life),-1,,-1,,-1,0.92
+book,3778,library,17727,,libro,21933,Biblioteca,402,Liburu,,Liburutegi,,7.46
+bank,19360669,money,8983183,,banco,42950,dinero,23556,Banku,,Diru,,8.12
+wood,33550,forest,11090,,madera,2654056,bosque,19291,Zur,,Baso,,7.73
+money,8983183,cash,55336,,dinero,23556,Dinero en efectivo,278165,,-1,Eskudiru,,9.15
+professor,20646803,cucumber,164491,,profesor,79570,Cucumis sativus,89089,Irakasle,,Luzoker,,0.31
+king,19012,cabbage,55115,,Monarca,28253,Brassica oleracea var. Viridis )BERZA),1416906,,,Aza,,0.23
+king,19012,queen,887147,,Monarca,28253,reina,40343,,-1,,-1,8.58
+king,47485,rook,47615,,Rey (ajedrez),94056,Torre (ajedrez),94054,,-1,,-1,5.92
+bishop,4092,rabbi,51273,,Obispo,638456,Rabino,72658,,-1,,-1,6.69
+Jerusalem,16043,Israel,9282173,,Jerusalén,30029,Israel,10005,Jerusalem,,Israel,,8.46
+Jerusalem,16043,Palestinian,23267,,Jerusalén,30029,Pueblo palestino,3125108,Jerusalem,,,-1,7.65
+holy,12178732,sex,26805,,Sagrado,181093,sexo,4169616,,-1,,-1,1.62
+fuck,5575722,sex,26805,,xxx,-1,sexo,4169616,,-1,,-1,9.44
+Maradona,8485,football,10568,,Maradona,9496,futbol,674732,Diego Armando Maradona,,Futbol,,8.62
+football,10568,soccer,10568,,futbol,674732,futbol,674732,Futbol,,Futbol,,9.03
+football,10568,basketball,3921,,futbol,674732,Baloncesto,366,Futbol,,Saskibaloi,,6.81
+football,10568,tennis,29773,,futbol,674732,tenis,5340,Futbol,,Tenis,,6.63
+tennis,29773,racket,52664,,tenis,5340,raqueta,250868,Tenis,,,-1,7.56
+Arafat,34289,peace,24702,,Yasir Arafat,22890,Paz,43655,Jassir Arafat,,Bake,,6.73
+Arafat,34289,terror,30636,,Yasir Arafat,22890,Terrorismo,,Jassir Arafat,,Terrorismo,,7.65
+Arafat,34289,Jackson,-1,,Yasir Arafat,22890,Jackson?,-1,Jassir Arafat,,Jackson?,,2.5
+law,18949668,lawyer,17541,,Derecho,860,abogado,54263,Zuzenbide,,Abokatu,,8.38
+movie,21555729,star,5796,,pelicula,26900,Celebridad,776488,Film,-1,,-1,7.38
+movie,21555729,popcorn,232176,,pelicula,26900,Palomitas de maíz,86407,Film,-1,,-1,6.19
+movie,21555729,critic,161227,,pelicula,26900,Crítica,52420,Film,-1,,-1,6.73
+movie,21555729,theater,77819,,pelicula,26900,Sala de proyección (cine),487655,Film,-1,,-1,7.92
+physics,22939,proton,23317,,Física,1155,Protón,2139,Fisika,,Protoi,,8.12
+physics,22939,chemistry,5180,,Física,1155,Química,3354,,,Kimika,,7.35
+space,27667,chemistry,5180,,Espacio (física),4073767,Química,3354,,,Espazio,,4.88
+alcohol,1014,chemistry,5180,,Alcohol,7613,Química,3354,Alkohol,-1,,-1,5.54
+vodka,32787,gin,12988,,Vodka,87725,Ginebra (bebida),594920,Vodka,,Gin,,8.46
+vodka,32787,brandy,45189,,Vodka,87725,Brandy,150546,Vodka,-1,,-1,8.13
+drink,7984,car,13673345,,Bebida,15998,coche,18019,,,Automobil,,3.04
+drink,7984,ear,768413,,Bebida,15998,Oído,45403, ,,Belarri,,1.31
+drink,7984,mouth,9293603,,Bebida,15998,Boca,89887,,,Aho,,5.96
+drink,7984,eat,212818,,Bebida,15998,Alimentación,19324,,-1,,-1,6.87
+baby,73165,mother,83430,,Bebé,47351,Madre,204484,Haur jaioberri,,Ama,,7.85
+drink,7984,mother,83430,,Bebida,15998,Madre,204484,,,Ama,,2.65
+car,13673345,automobile,13673345,,coche,18019,automovil,18019,Automobil,,Automobil,,8.94
+gem,12806,jewel,12806,,gema,11607,Gema,11607,Harribitxi,,Harribitxi,,8.96
+journey,163941,voyage,-1,,jornada,-1,viaje,-1,,-1,,-1,9.29
+boy,194253,lad,-1,,chico,-1,chica,-1,Mutil,,Neska,,8.83
+coast,5236,shore,480527,,Costa,89250,Ribera (orilla),199696,Itsasertz,,,-1,9.1
+asylum,38722,madhouse,38722,,Hospital psiquiátrico,689261,Casa de locos,689261,,-1,,-1,8.87
+magician,7689495,wizard,7689495,,Mago,27550,Ilusionista,83179,,-1,,-1,9.02
+midday,209005,noon,209005,,Mediodía,58912,Mediodía,58912,Eguerdi,,Eguerdi,,9.29
+furnace,238150,stove,556358,,Estufa (calefacción) ,2054257,Estufa (calefacción),2054257,,-1,,-1,8.79
+food,10646,fruit,10843,,Alimento,148,Fruto (a),31571,Janari,,,-1,7.52
+bird,3410,cock,26574,,Aves,906733,Gallo,1409670,Hegazti,,,-1,7.1
+bird,3410,crane,198041,,Aves,906733,Gruidae (pajaro),69602,,-1,,-1,7.38
+tool,30677,implement,30677,,Herramienta,74925,Implementar,-1,Tresna,,,-1,6.46
+brother,419369,monk,419369,,hermano,534194,monje,445853,,-1,Monakotza,,6.27
+crane,318378,implement,30677,,Grúa (máquina),,Implementar,-1,Garabi,,,-1,2.69
+lad,-1,brother,352169,,chico,-1,hermano,-1,Mutil,,anaia,,4.46
+journey,163941,car,13673345,,viaje,2043985,coche,18019,Bidaia,,Automobil,,5.85
+monk,419369,oracle,22589,,monje,445853,Oraculo,651827,Monakotza,,Orakulu,,5
+cemetery,63752,woodland,66986,,Cementerio,84163,bosque,19291,Hilerri,,Baso,,2.08
+food,10646,rooster,26574,,Alimento,148,gallo,1409670,,-1,,-1,4.42
+coast,5236,hill,1408983,,costa,89250,colina,337965,Itsasertz,,Muino,,4.38
+forest,11090,graveyard,247010,,bosque,19291,Cementerio,84163,Baso,,Hilerri,,1.85
+shore,480527,woodland,66986,,Ribera (orilla),199696,bosque,19291,,-1,,-1,3.08
+monk,419369,slave,27992,,monje,445853,Esclavo,43139,Monakotza,,Esklabotza,,0.92
+coast,5236,forest,11090,,costa,89250,costa,89250,Itsasertz,,Baso,,3.15
+lad,-1,wizard,7689495,,chica,-1,Mago-hechicero,27550,,-1,,-1,0.92
+chord,297947,smile,187557,,Cuerda (geometría) ,5301606,Sonrisa,141352,,-1,,-1,0.54
+glass,12581,magician,25152964,,Vidrio,26553,Mago,27550,Beira,,,-1,2.08
+noon,209005,string,1810027,,Mediodía,58912,Cordel (textil),3133413,eguerdi,,,-1,0.54
+rooster,26574,voyage,-1,,gallo,1409670,viaje,2043985,,-1,Bidaia,,0.62
+money,8983183,dollar,8100,,dinero,23556,dólar,21288,Diru,,Dolar,,8.42
+money,8983183,cash,55336,,dinero,23556,Dinero en efectivo,278165,Diru,,Eskudiru,,9.08
+money,8983183,currency,5665,,dinero,23556,Divisa,2476004,Diru,,Dibisa,,9.04
+money,8983183,wealth,192617,,dinero,23556,Riqueza,160093,Diru,,,-1,8.27
+money,8983183,property,23626,,dinero,23556,Propiedad,182912,Diru,,,-1,7.57
+money,8983183,possession,24189,,dinero,23556,Posesion,130204,Diru,,,-1,7.29
+money,8983183,bank,19360669,,dinero,23556,Banco,42950,Diru,,Banku,,8.5
+money,8983183,deposit,30873450,,dinero,23556,Cuenta de ahorro,1248594,Diru,,Ageriko gordailu,,7.73
+money,8983183,withdrawal,-1,,dinero,23556,jubilacion (pension),360707,Diru,,,-1,6.88
+money,8983183,laundering,19390,,dinero,23556,Lavado de dinero(blanquear),1884088,Diru,,,-1,5.65
+money,8983183,operation,45599,,dinero,23556,Cirugía,1529521,Diru,,Kirurgia,,3.31
+tiger,30075,jaguar,16217,,tigre,25113,Panthera onca (jaguar,26796,Tigre,,Jaguar,,8
+tiger,30075,feline,11302,,tigre,25113,Felidae(felino),31555,Tigre,,Felidae,,8
+tiger,30075,carnivore,6543,,tigre,25113,Carnívoro,18053,Tigre,,Haragijale,,7.08
+tiger,30075,mammal,18838,,tigre,25113,Mammalia(mamifero,26079,Tigre,,Ugaztun,,6.85
+tiger,30075,animal,11039790,,tigre,25113,Animalia(animales),235,Tigre,,Animalia,,7
+tiger,30075,organism,19653842,,tigre,25113,Ser vivo,7624,Tigre,,Organismo,,4.77
+tiger,30075,fauna,722672,,tigre,25113,Fauna,34684,Tigre,,Fauna,,5.62
+tiger,30075,zoo,9096372,,tigre,25113,Jardín zoológico(zoo),28250,Tigre,,Parke zoologiko,,5.87
+psychology,22921,psychiatry,18973869,,Psicología,2127,Psiquiatría,12675,Psikologia,,Psikiatria,,8.08
+psychology,22921,anxiety,922,,Psicología,2127,Trastorno de ansiedad,5204342,Psikologia,,,-1,7
+psychology,22921,fear,10828,,Psicología,2127,Miedo,72322,Psikologia,,,-1,6.85
+psychology,22921,depression,8389,,Psicología,2127,Depresión,29840,Psikologia,,,-1,7.42
+psychology,22921,clinic,832314,,Psicología,2127,Clínica,40939,Psikologia,,,-1,6.58
+psychology,22921,doctor,23315,,Psicología,2127,Médico,2564590,Psikologia,,Mediku,,6.42
+psychology,22921,Freud,26743,,Psicología,2127,Sigmund Freud(invesigador psicologico),19304,Psikologia,,Sigmund Freud,,8.21
+psychology,22921,mind,19378,,Psicología,2127,Mente,141256,Psikologia,,Gogamen,,7.69
+psychology,22921,health,80381,,Psicología,2127,Salud,2680,Psikologia,,Osasun,,7.23
+psychology,22921,science,26700,,Psicología,2127,Ciencia,622,Psikologia,,Zientzia,,6.71
+psychology,22921,discipline,267487,,Psicología,2127,Disciplina,2429965,Psikologia,,,-1,5.58
+psychology,22921,cognition,106238,,Psicología,2127,Cognición,4201688,Psikologia,,Kognizio,,7.48
+planet,22915,star,26808,,Planeta,2141,Estrella,3364,Planeta,,Izar,,8.45
+planet,22915,constellation,5267,,Planeta,2141,Constelación,441,Planeta,,Konstelazio,,8.06
+planet,22915,moon,19331,,Planeta,2141,Luna,5189863,Planeta,,Ilargia,,8.08
+planet,22915,sun,26751,,Planeta,2141,Sol,2570,Planeta,,Eguzkia,,8.02
+planet,22915,galaxy,12558,,Planeta,2141,Galaxia,7364,Planeta,,Galaxia,,8.11
+planet,22915,space,27667,,Planeta,2141,Espacio (física),4073767,Planeta,,Espazio,,7.92
+planet,22915,astronomer,580,,Planeta,2141,Astrónomo,46117,Planeta,,,,7.94
+precedent,23004,example,-1,,Stare decisis(precedente juridico),440171,Ejemplo,-1,,,,,5.85
+precedent,23004,information,18985062,,Stare decisis,440171,Información,9718,,,Informazio,,3.85
+precedent,23004,cognition,106238,,Stare decisis,440171,Cognición,4201688,,,Kognizio,,2.81
+precedent,23004,law,18949668,,Stare decisis,440171,Derecho,860,,,Zuzenbide,,6.65
+precedent,23004,collection,-1,,Stare decisis,440171,Colección (conjunto),806,,,,,2.5
+precedent,23004,group,-1,,Stare decisis,440171,Grupo,32419,,,,,1.77
+precedent,23004,antecedent,6192035,,Stare decisis,440171,Antecedente,-1,,,,,6.04
+cup,1424937,coffee,604727,,taza,509486,Café,298700,,,Kafe,,6.58
+cup,1424937,tableware,1151989,,taza,509486,Vajilla,415314,,,,,6.85
+cup,1424937,article,-1,,taza,509486,Articulo,-1,,,,,2.4
+cup,1424937,artifact,584894,,taza,509486,Artefacto arqueológico,4462580,,,,,2.92
+cup,1424937,object,-1,,taza,509486,Objeto,-1,,,,,3.69
+cup,1424937,entity,42176,,taza,509486,Entidad,84060,,,,,2.15
+cup,1424937,drink,7984,,taza,509486,Bebida,15998,,,,,7.25
+cup,1424937,food,10646,,taza,509486,Alimento,148,,,Janari,,5
+cup,1424937,substance,-1,,taza,509486,substancia,909196,,,,,1.92
+cup,1424937,liquid,18993825,,taza,509486,Líquido,698355,,,Likido,,5.9
+jaguar,16217,cat,6678,,Panthera onca,26796,Felis silvestris catus (gato),409000,Jaguar,,,,7.42
+jaguar,147676,car,13673345,,Jaguar Cars,158259,Automóvil,18019,Jaguar Cars,,,,7.27
+energy,9649,secretary,214196,,Energía,2482150,Secretario (administración),393541,Energia,,,,1.81
+secretary,782026,senate,24909346,,secretaria,-1,Senado de los Estados Unidos,231698,not found,,,,5.06
+energy,9649,laboratory,173351,,Energía,2482150,Laboratorio,1832489,Energia,,,,5.09
+computer,7878457,laboratory,173351,,Computadora,8985,Laboratorio,1832489,Ordenagailu,,,,6.78
+weapon,33496,secret,66505,,Arma,16080,Secreto,683381,Arma,,,,6.06
+FBI,11127,fingerprint,84777,,FBI,54927,Huella dactilar,195819,FBI,,,,6.94
+FBI,11127,investigation,37297,,FBI,54927,investigacion,-1,FBI,,,,8.31
+investigation,37297,effort,-1,,investigacion,-1,esfuerzi,-1,not found,,,,4.59
+Mars,14640471,water,33306,,Marte (planeta),1787,Agua,2444645,Marte,,,,2.94
+Mars,14640471,scientist,26997,,Marte (planeta),1787,Científico,13261,Marte,,,,5.63
+news,20781999,report,4692150,,Noticia,85311,Informe,1008058,Albiste,,,,8.16
+canyon,78478,landscape,205135,,Cañón (geomorfología),55751,Paisaje,3468,Arroila,,,,7.53
+image,71925,surface,27865,,Imagen,4316322,Superficie (matemática),4218,not found,,,,4.56
+discovery,28238,space,27667,,Transbordador espacial Discovery,13607,Espacio (física),4073767,not found,,,,6.34
+water,33306,seepage,1276437,,Agua,2444645,Mecánica de suelos,154344,Ur,,,,6.56
+sign,875650,recess,1134265,,Símbolo monetario,1405324,Recreo estudiantil,4869561,not found,,,,2.38
+Wednesday,54634,news,20781999,,Miércoles,11148,Noticia,85311,Asteazken,,,,2.22
+mile,19159,kilometer,50510,,Milla,1766,Kilómetro,1597,Milia,,,,8.66
+computer,7878457,news,20781999,,Computadora,8985,Noticia,85311,Ordenagailu,,,,4.47
+territory,6450815,surface,27865,,Territorio (subdivisión de país),956936,Superficie (matemática),4218,not found,,,,5.34
+atmosphere,202899,landscape,205135,,Atmósfera,208166,Paisaje,3468,not found,,,,3.69
+president,24113,medal,375211,,Presidente de los Estados Unidos,28105,Medalla,148402,not found,,,,3
+war,33158,troops,195091,,Guerra,1313,tropas (del ejerctito),-1,Gerra,,,,8.13
+record,-1,number,21690,,record,-1,Número,2002,not found,,,,6.31
+skin,27978,eye,157898,,Piel,6626,Ojo,3172583,Azal (anatomia),,,,6.22
+Japanese,186932,American,3434750,,Japonés (etnia),1328767,Estados Unidos,2400722,Japoniar,,,,6.5
+theater,20913771,history,10772350,,Teatro,2780,Historia,1370,Antzerki,,,,3.91
+volunteer,30874303,motto,70210,,Voluntariado,176743,Lema,1269442,not found,,,,2.56
+prejudice,77182,recognition,8874869,,Prejuicio,139614,reconocimiento (de acusar),-1,Aurreiritzi,,,,3
+decoration,340586,valor,49899,,decoracion,-1,Coraje,2148064,not found,,,,5.63
+century,5881,year,34341,,Siglo,21412,Año,37,Mende,,,,7.59
+century,5881,nation,21754,,Siglo,21412,Nación,666600,Mende,,,,3.16
+delay,-1,racism,25613,,retraso,-1,Racismo,31924,not found,,,,1.19
+delay,-1,news,20781999,,retraso,-1,Noticia,85311,not found,,,,3.31
+minister,739237,party,23996,,Ministro,89618,Partido político,27039,Ministro,,,,6.63
+peace,24702,plan,179824,,Paz,43655,plan,-1,Bake,,,,4.75
+minority,437868,peace,24702,,Minoría,525816,Paz,43655,not found,,,,3.69
+attempt,-1,peace,24702,,not found,not found,Paz,43655,not found,,,,4.25
+government,12229,crisis,492128,,Gobierno,1314,Crisis,394822,Gobernu,,,,6.56
+deployment,-1,departure,-1,,not found,not found,salida,-1,not found,,,,4.25
+deployment,3758871,withdrawal,1531454,,not found,not found,Retirada,636215,not found,,,,5.88
+energy,9649,crisis,492128,,Energía,2482150,Crisis,394822,Energia,,,,5.94
+announcement,-1,news,20781999,,anuncio,-1,Noticia,85311,not found,,,,7.56
+announcement,-1,effort,9649,,anuncio,-1,Energía,2482150,not found,,,,2.75
+stroke,625404,hospital,18994221,,Accidente cerebrovascular,41549,Hospital,30364,Istripu zerebrobaskular,,,,7.03
+disability,56285,death,8221,,Discapacidad,29158,Muerte,1942,not found,,,,5.47
+victim,-1,emergency,146334,,victima,-1,urgencias hospitalarias,3109890,not found,,,,6.47
+treatment,13311819,recovery,-1,,Tratamiento (medicina),320824,recuperacion,-1,Tratamendu,,,,7.91
+journal,324572,association,28831284,,revista,-1,Asociación voluntaria,5255990,not found,,,,4.97
+doctor,23315,personnel,46053,,Médico,2564590,Recursos humanos,115172,Mediku,,,,5
+doctor,23315,liability,1210255,,Médico,2564590,Responsabilidad civil,208580,Mediku,,,,5.19
+liability,1210255,insurance,15176,,Responsabilidad civil,208580,Contrato de seguro,78754,not found,,,,7.03
+school,28022,center,-1,,Escuela,79448,centro,-1,Eskola,,,,3.44
+reason,42446,hypertension,77432,,Razón,505389,Hipertensión arterial,35096,not found,,,,2.31
+reason,-1,criterion,-1,,razon,-1,criterio,-1,not found,,,,5.91
+hundred,208261,percent,64493,,Hundred,5095432,Porcentaje,59256,not found,,,,7.38
+Harvard,18426501,Yale,34273,,Universidad de Harvard,33796,Universidad Yale,4533248,Harvard Unibertsitatea,,,,8.13
+hospital,18994221,infrastructure,174521,,Hospital,30364,Infraestructura urbana,15763,Ospitale,,,,4.63
+death,8221,row,-1,,Muerte,1942,not found,-1,Heriotza,,,,5.25
+death,8221,inmate,31392139,,Muerte,1942,not found,-1,Heriotza,,,,5.03
+lawyer,17541,evidence,2001231,,Abogado,54263,Prueba (Derecho),849359,Abokatu,,,,6.69
+life,18393,death,8221,,Vida,14666,Muerte,1942,Bizi,,,,7.88
+life,18393,term,-1,,Vida,14666,termino,-1,Bizi,,,,4.5
+word,1449866,similarity,1473135,,Palabra,11821,similaridad,-1,Hitz,,,,4.75
+board,4822,recommendation,-1,,Consejo de administración,1794789,recomendacion,-1,not found,,,,4.47
+governor,56231,interview,236975,,Gobernador,80941,Entrevista periodística,211706,Gobernadore,,,,3.25
+OPEC,166346,country,5165,,Organización de Países Exportadores de Petróleo,44580,País,2384,LPEE,,,,5.63
+peace,24702,atmosphere,-1,,Paz,43655,atmosfera,-1,Bake,,,,3.69
+peace,24702,insurance,15176,,Paz,43655,Contrato de seguro,78754,Bake,,,,2.94
+territory,6450815,kilometer,50510,,Territorio (subdivisión de país),956936,Kilómetro,1597,not found,,,,5.28
+travel,155747,activity,-1,,Viaje,2043985,actividad,-1,Bidaia,,,,5
+competition,181592,price,211295,,competicion,-1,Precio,14765,not found,,,,6.44
+consumer,7818,confidence,2973525,,Consumidor,71369,confianza,-1,Kontsumitzaile,,,,4.13
+consumer,7818,energy,2935251,,Consumidor,71369,Industria de la energía,4364251,Kontsumitzaile,,,,4.75
+problem,608760,airport,37575,,problema,-1,Aeropuerto,823432,not found,,,,2.38
+car,13673345,flight,159472,,Automóvil,18019,Vuelo,335326,Automobil,,,,4.94
+credit,1698417,card,-1,,Crédito,167934,tarjeta,-1,Kreditu (finantza),,,,8.06
+credit,1698417,information,18985062,,Crédito,167934,Información,9718,Kreditu (finantza),,,,5.31
+hotel,14276,reservation,-1,,Hotel,104151,reserva,-1,Hotel,,,,8.03
+grocery,239196,money,8983183,,Tienda de ultramarinos,175809,Dinero,23556,not found,,,,5.94
+registration,-1,arrangement,-1,,registro,-1,acuerdo,-1,not found,,,,6
+arrangement,-1,accommodation,230468,,acuerdo,-1,alojamiento,-1,not found,,,,5.41
+month,20354,hotel,14276,,Mes,1826,Hotel,104151,Hilabete,,,,1.81
+type,-1,kind,-1,,typo,-1,not found,-1,not found,,,,8.97
+arrival,-1,hotel,14276,,llegada,-1,Hotel,104151,not found,,,,6
+bed,951407,closet,49402,,Cama,98596,Closet,847437,Ohe,,,,6.72
+closet,49402,clothes,38180,,Closet,847437,Indumentaria,67554,not found,,,,8
+situation,19039812,conclusion,-1,,Situación,5252420,not found,-1,not found,,,,4.81
+situation,19039812,isolation,962509,,Situación,5252420,Soledad,1173758,not found,,,,3.88
+impartiality,1659824,interest,20982422,,Imparcialidad,1901410,not found,-1,not found,,,,5.16
+direction,4767947,combination,5308,,direccion,-1,Combinación,4906926,not found,,,,2.25
+street,199065,place,-1,,Calle,373121,not found,-1,Kale,,,,6.44
+street,199065,avenue,1006179,,Calle,373121,Avenida,934677,Kale,,,,8.88
+street,199065,block,948686,,Calle,373121,Manzana urbana,541934,Kale,,,,6.88
+street,199065,children,128987,,Calle,373121,Niño,47367,Kale,,,,4.94
+listing,-1,proximity,39378,,listado,-1,Distancia,873,not found,,,,2.56
+listing,-1,category,-1,,listado,-1,categoria,-1,not found,,,,6.38
+cell,-1,phone,30003,,celula,-1,Teléfono,6257,not found,,,,7.81
+production,-1,hike,-1,,produccion,-1,excursion,-1,not found,,,,1.75
+benchmark,223063,index,-1,,Benchmarking,193346,indice,-1,Benchmarking,,,,4.25
+media,19641,trading,29678,,Medio de comunicación de masas,1133166,Comercio,4361,not found,,,,3.88
+media,19641,gain,41968,,Medio de comunicación de masas,1133166,Ganancia (electrónica),210772,not found,,,,2.88
+dividend,41930,payment,3648961,,Dividendo (economía),336282,Pago,6547,Dibidendu,,,,7.63
+dividend,41930,calculation,239121,,Dividendo (economía),336282,Cuenta (matemáticas),4836806,Dibidendu,,,,6.48
+calculation,239121,computation,5926,,Cuenta (matemáticas),4836806,calculo,-1,not found,,,,8.44
+currency,5665,market,3736784,,Divisa,2476004,Mercado,14762,Dibisa,,,,7.5
+OPEC,166346,oil,4207510,,Organización de Países Exportadores de Petróleo,44580,Aceite,13609,LPEE,,,,8.59
+oil,4207510,stock,19372783,,Aceite,13609,stock,-1,Olio,,,,6.34
+announcement,-1,production,-1,,anuncio,-1,produccion,-1,not found,,,,3.38
+announcement,-1,warning,-1,,anuncio,-1,advertenecia,-1,not found,,,,6
+profit,19417927,warning,-1,,ganancia,-1,advertenecia,-1,not found,,,,3.88
+profit,19417927,loss,-1,,ganancai,-1,perdida,-1,not found,,,,7.63
+dollar,8100,yen,34392,,Dólar,21288,Yen,14026,Dolar,,,,7.78
+dollar,8100,buck,8100,,Dólar,21288,Dólar,21288,Dolar,,,,9.22
+dollar,8100,profit,19417927,,Dólar,21288,Ganancia ,-1,Dolar,,,,7.38
+dollar,8100,loss,-1,,Dólar,21288,perdida,-1,Dolar,,,,6.09
+computer,7878457,software,5309,,Computadora,8985,Software,2555,Ordenagailu,,,,8.5
+network,4122592,hardware,13615,,Red de computadoras,4842242,hardware,-1,Konputagailu-sare,,,,8.31
+phone,30003,equipment,30677,,Teléfono,6257,Herramienta,74925,Telefono,,,,7.13
+equipment,30677,maker,-1,,Herramienta,74925,productor,-1,Tresna,,,,5.91
+luxury,251887,car,13673345,,Segmento F,583104,Automóvil,18019,not found,,,,6.47
+five,6412297,month,20354,,Cinco,18030,Mes,1826,Bost,,,,3.38
+report,4692150,gain,-1,,Informe,1008058,Ganancia ,-1,not found,,,,3.63
+investor,332730,earning,15037,,not found,not found,Ingreso,79119,not found,,,,7.13
+liquid,18993825,water,33306,,Líquido,1669,Agua,2444645,Likido,,,,7.89
+baseball,3850,season,690345,,Béisbol,972331,Temporada (deporte),725057,Beisbol,,,,5.97
+game,18723138,victory,19045066,,Juego,1555,Victoria (triunfo),5109881,Joko,,,,7.03
+game,18723138,team,140801,,Juego,1555,Equipo,549463,Joko,,,,7.69
+marathon,49132,sprint,89276,,Maratón,9232,Carrera de velocidad,970848,Maratoi,,,,7.47
+game,18723138,series,-1,,Juego,1555,serie (sucesion),-1,Joko,,,,6.19
+game,18723138,defeat,-1,,Juego,1555,derrota ,-1,Joko,,,,6.97
+seven,208159,series,-1,,Siete,18033,serie (sucesion),-1,Zazpi,,,,3.56
+seafood,26866,sea,18842323,,Marisco,78712,Mar,11451,not found,,,,7.47
+seafood,26866,food,10646,,Marisco,78712,Alimento,148,not found,,,,8.34
+seafood,26866,lobster,46310,,Marisco,78712,Nephropidae,72486,not found,,,,8.7
+lobster,46310,food,10646,,Nephropidae,72486,Alimento,148,not found,,,,7.81
+lobster,46310,wine,32961,,Nephropidae,72486,Vino,3990,not found,,,,5.7
+food,10646,preparation,3322403,,Alimento,148,preparacion,-1,Janari,,,,6.22
+video,32441,archive,316723,,Vídeo,71828,Archivo de documentos,163736,Bideo,,,,6.34
+start,-1,year,34341,,empezar,-1,Año,37,not found,,,,4.06
+start,-1,match,-1,,empezar,-1,partido,-1,not found,,,,4.47
+game,18723138,round,-1,,Juego,1555,round (boxeo),-1,Joko,,,,5.97
+boxing,4243,round,-1,,Boxeo,16373,round (boxeo),-1,Boxeo,,,,7.61
+championship,3884434,tournament,146996,,campeonato,-1,Competición (juego),161567,not found,,,,8.36
+fighting,23210314,defeating,-1,,Combate,4845843,not found,-1,not found,,,,7.41
+line,-1,insurance,15176,,linea,-1,Contrato de seguro,78754,not found,,,,2.69
+day,8376,summer,29392,,Día,850,Verano,21881,Egun,,,,3.94
+summer,29392,drought,37335,,Verano,21881,Sequía,51797,Uda,,,,7.16
+summer,29392,nature,21830,,Verano,21881,Naturaleza,2034,Uda,,,,5.63
+day,8376,dawn,191061,,Día,850,Alba,113862,Egun,,,,7.53
+nature,21830,environment,558685,,Naturaleza,2034,Medio ambiente,5349,Natura,,,,8.31
+environment,558685,ecology,9630,,Medio ambiente,5349,Ecología,1010,Ingurumen,,,,8.81
+nature,21830,man,15822899,,Naturaleza,2034,Varón,6637,Natura,,,,6.25
+man,15822899,woman,33183,,Varón,6637,Mujer,6638,Gizon,,,,8.3
+man,15822899,governor,56231,,Varón,6637,Gobernador,80941,Gizon,,,,5.25
+murder,20171,manslaughter,7397035,,Asesinato,5502,Homicidio,59211,Erailketa,,,,8.53
+soap,-1,opera,-1,,culebron,-1,opera (musical),-1,not found,,,,7.94
+opera,22348,performance,224515,,Ópera,26911,not found,-1,Opera,,,,6.88
+life,-1,lesson,668100,,not found,-1,Lección,327991,not found,,,,5.94
+focus,-1,life,-1,,"foco, centro",-1,vida,-1,not found,,,,4.06
+production,-1,crew,6801,,produccion,-1,"Tripulación, equipo",639914,not found,,,,6.25
+television,29831,film,21555729,,Televisión,5693,Película,26900,Telebista,,,,7.72
+lover,2024408,quarrel,-1,,amante,3795461,discutir,-1,not found,,,,6.19
+viewer,-1,serial,-1,,espectador,-1,serie,-1,not found,,,,2.97
+possibility,-1,girl,1723133,,posibilidad,-1,chica,-1,not found,,,,1.94
+population,22949,development,8449,,Población,7839,Biología del desarrollo,3746121,Biztanleria,,,,3.75
+morality,43254,importance,-1,,Moral,25390,not found,-1,Moral,,,,3.31
+morality,43254,marriage,19728,,Moral,25390,Matrimonio,1936,Moral,,,,3.69
+Mexico,3966054,Brazil,3383,,México,1830,Brasil,410,Mexiko,,,,7.44
+gender,38076,equality,177845,,Género (ciencias sociales),1565439,not found,-1,not found,,,,6.41
+change,-1,attitude,363996,,cambio,-1,Actitud,307909,not found,,,,5.44
+family,10401954,planning,-1,,Familia,134999,not found,-1,Familia,,,,6.25
+opera,22348,industry,14543,,Ópera,26911,Industria,11481,Opera,,,,2.63
+sugar,27712,approach,-1,,Azúcar,4696,not found,-1,Azukre,,,,0.88
+practice,77298,institution,294833,,practicar,-1,Institución,327876,not found,,,,3.19
+ministry,859401,culture,19159508,,Ministerio,72704,Cultura,758,not found,,,,4.69
+problem,608760,challenge,4129813,,problema,-1,Reto,2781222,not found,,,,6.75
+size,264558,prominence,-1,,Tamaño,472364,not found,-1,not found,,,,5.31
+country,5165,citizen,6784,,País,2384,Ciudadano,40765,Herrialde,,,,7.31
+planet,22915,people,3488351,,Planeta,2141,Pueblo,560006,Planeta,,,,5.75
+development,148131,issue,-1,,Desarrollo económico,298345,inconveniente,-1,not found,,,,3.97
+experience,297724,music,18839,,Experiencia,169694,Música,1770,not found,,,,3.47
+music,18839,project,-1,,Música,1770,proyecto,-1,Musika,,,,3.63
+glass,12581,metal,19042,,Vidrio,26553,Metal,4058,Beira,,,,5.56
+aluminum,904,metal,19042,,Aluminio,11568,Metal,4058,Aluminio,,,,7.83
+chance,-1,credibility,651358,,posibilidad,-1,Credibilidad,1278595,not found,,,,3.88
+exhibit,1131934,memorabilia,937531,,Exhibición de arte,1717311,Souvenir,485331,not found,,,,5.31
+concert,236918,virtuoso,201480,,Concierto,317196,Virtuosismo,1251937,not found,,,,6.81
+rock,25423,jazz,15613,,Rock,788831,Jazz,4508805,Rock,,,,7.59
+museum,37585,theater,20913771,,Museo,4298766,Teatro,2780,Museo,,,,7.19
+observation,22649,architecture,21296224,,Observación,445945,Arquitectura,24,not found,,,,4.38
+space,27667,world,38714,,Espacio (física),4073767,Mundo,17666,Espazio,,,,6.53
+preservation,5196417,world,9228,,Conservar (ej.medio ambiente),-1,Tierra,2730,not found,,,,6.19
+admission,20864904,ticket,9958345,,admision (algun sitio),-1,Billete,148269,not found,,,,7.69
+shower,-1,thunderstorm,70807,,ducha,-1,Tormenta eléctrica,662582,not found,,,,6.31
+shower,-1,flood,50482,,ducha,-1,Inundación,47283,not found,,,,6.03
+weather,33978,forecast,73231,,Tiempo atmosférico,14861,Pronóstico del tiempo,644992,Eguraldi,,,,8.34
+disaster,8137,area,1209,,Desastre,160228,Área,258072,not found,,,,6.25
+governor,56231,office,-1,,Gobernador,80941,oficina,-1,Gobernadore,,,,6.34
+architecture,21296224,century,5881,,Arquitectura,24,Siglo,21412,Arkitektura,,,,3.78
