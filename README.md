@@ -1,2 +1,8 @@
 # Wikipedia353Spanish
-The WikipediaSimilarity 353 Test Collection is simply a copy of the original dataset, where each term has been manually disambiguated to refer to a particular article in Wikipedia. It was used to develop and evaluate the Wikipedia Link Based Measure, an algorithm for measuring relatedness using Wikipedia's link structure as a source of background knowledge. The algorithm is available open-source (an can be used online) as part of the Wikipedia Miner toolkit.  The following paper provides additional details:  David Milne, Ian H. Witten (2008) An effective, low-cost measure of semantic relatedness obtained from Wikipedia links. In Proceedings of the first AAAI Workshop on Wikipedia and Artificial Intelligence, Chicago, I.L
+Adapted to Spanish and Basque in order to deal with trainning Wikipedia Miner from Milne and Witten 
+
+<cite>David Milne, Ian H. Witten (2008) An effective, low-cost measure of semantic relatedness obtained from Wikipedia links. In Proceedings of the first AAAI Workshop on Wikipedia and Artificial Intelligence, Chicago, I.L </cite>
+
+
+
+
